@@ -1,0 +1,30 @@
+[
+    {
+        "p_rel_url": "https://github.com/milindwankhedegit/microsoftfabricrepo/blob/main/Adventureworks_Product_Categories.csv",
+        "p_sink_folder": "Adventureworks_Product_Categories",
+        "p_sink_file": "Adventureworks_Product_Categories.csv"
+    },
+    
+    {
+        "p_rel_url": "https://github.com/milindwankhedegit/microsoftfabricrepo/blob/main/Adventureworks_Customers.csv",
+        "p_sink_folder": "Adventureworks_Customers",
+        "p_sink_file": "Adventureworks_Customers.csv"
+    },
+    
+    {
+        "p_rel_url": "https://github.com/milindwankhedegit/microsoftfabricrepo/blob/main/Adventureworks_Products.csv",
+        "p_sink_folder": "Adventureworks_Products",
+        "p_sink_file": "Adventureworks_Products.csv"
+    },
+    {
+        "p_rel_url": "https://github.com/milindwankhedegit/microsoftfabricrepo/blob/main/Adventureworks_Returns.csv",
+        "p_sink_folder": "Adventureworks_Returns",
+        "p_sink_file": "Adventureworks_Returns.csv"
+    },
+    
+    {
+        "p_rel_url": "https://github.com/milindwankhedegit/microsoftfabricrepo/blob/main/Adventureworks_Sales_2025.csv",
+        "p_sink_folder": "Adventureworks_Sales_2025",
+        "p_sink_file": "Adventureworks_Sales_2025.csv"
+    }
+]
